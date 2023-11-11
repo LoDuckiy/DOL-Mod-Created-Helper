@@ -8,6 +8,7 @@
 /scripts/
 /modloader/
 /node_modules/
+/dolvenv/
 
 *.pyc
 *.7z
